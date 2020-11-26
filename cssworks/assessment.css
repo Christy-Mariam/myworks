@@ -1,0 +1,16 @@
+.one{
+  color:brown;
+}
+
+#second{
+    border-style:solid;
+    border-color:black ;
+    border-width: 5px;
+    color: blue;
+
+}
+
+li{
+    color:red;
+
+}

@@ -1,0 +1,55 @@
+h1{
+
+    color:red;
+
+}
+
+#one{
+
+    color:rgb(89, 85, 92)
+
+}
+
+div{
+    margin: auto;
+}
+
+div label{
+    margin-left: 180px;
+}
+
+div li{
+    margin-left: 180px;
+}
+
+body{
+
+    background-image: url("C:\Users\user\Desktop\CHRISTY\Mean stack\cssworks\ipl.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgb(106, 184, 157);
+}
+
+div{
+    border-style:solid;
+    border-color:azure;
+    border-width:5px;
+    background-color: yellow;
+    width:50%;
+}
+
+#mi{
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+    background-color:rgb(30, 105, 212);
+    width:50%;
+}
+
+.team{
+    border-style:solid;
+    border-color:rgb(85, 13, 13);
+    border-width:5px;
+    background-color:rgb(212, 30, 115);
+    width:50%;
+}

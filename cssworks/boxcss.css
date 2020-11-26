@@ -1,0 +1,27 @@
+#top{
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    width: 50%;
+    margin-left:250px;
+    margin-top:50px;
+    padding-left:300px;
+    background-color:coral;
+    font-family: 'Oswald', sans-serif;
+}
+
+#bottom{
+    border-style: solid;
+    border-color: blue;
+    border-width: 6px;
+    width: 50%;
+    margin-top:440px;
+    padding-left:300px;
+    margin-left:250px;
+    background-color:yellow;
+    font-family: 'Anton', sans-serif;
+}
+
+h1{
+    font-family: 'Goldman', cursive;
+}
